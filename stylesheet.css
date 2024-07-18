@@ -32,9 +32,17 @@ h3 {
 h4 {
     color: #7b7973;
     text-transform: uppercase;
+    vertical-align: center;
 }
 td {
     padding-right: 10px;
     color: #292744;
     font-weight: 600;
+}
+#github {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    height: 50px;
+    width: 50px;
 }
