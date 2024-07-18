@@ -46,3 +46,13 @@ td {
     height: 50px;
     width: 50px;
 }
+#trump {
+    position: absolute;
+    top: 5vh;
+    right: 5vw;
+    border-radius: 50%;
+    width: 20vw;
+    z-index: -1;
+    border-top-left-radius: 0;
+    opacity: 50%;
+}
