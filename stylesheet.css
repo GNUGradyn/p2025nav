@@ -9,7 +9,7 @@ body {
 }
 #content {
     min-width: 100%; /*has to be able to overflow for the js to work*/
-    min-height: 100%;
+    min-height: 100vh;
     border-left: 1vw solid #384a75;
     box-sizing: border-box;
     padding-top: 1%;
